@@ -1,1 +1,1 @@
-# https://marcelolac.github.io/boostrap_studio_teste.github.io/
+# https://boostrap_studio_teste.github.io/
